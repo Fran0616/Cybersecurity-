@@ -14,6 +14,8 @@ Introduction to Information Secuirty
 
 
 
+Intro Information Secuirty Part 2
+=
 
 1. A ​virus​ is malicious code that runs on a user's computer without their knowledge. Once executed the code replicates itself by modifying other computer programs and infect the system with its own code.
 2. Viruses include ​Boot Sector​, this virus hides in a file on a USB drive or email attachment. Once executed the virus infect the system’s master boot record to damage the system. Another type of virus is ​macro​, this type of virus is written in macro language embedded inside applications like Excel spreadsheet. This is part of the reason why it’s dangerous to open unknown email attachments. ​Polymorphic​ viruses encrypt their codes and use different encryption keys every time in order to vary their physical file makeup. This characteristic makes them really complex because of how it can create modified versions of itself. These are only three of the many types of virus out there in the cyber world.
