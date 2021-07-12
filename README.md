@@ -3,7 +3,7 @@ A quick guide into cybersecurity
 
 
 
-Introduction to Information Secuirty
+Introduction to Information Security
 =
 
 
@@ -14,7 +14,7 @@ Introduction to Information Secuirty
 
 
 
-Intro Information Secuirty Part 2
+Intro Information Secuirty Part 1
 =
 
 1. A ​virus​ is malicious code that runs on a user's computer without their knowledge. Once executed the code replicates itself by modifying other computer programs and infect the system with its own code.
@@ -25,3 +25,13 @@ Intro Information Secuirty Part 2
 6. Content filter is a software that blocks external files that use JavaScript to image from loading into the browser.
 7. BIOS (Basic Input/ Output System) is the program a computer microprocessor uses to start the computer system after it’s started. The BIOS like any other part of a computer can become infected. Two ways to secure the BIOS is using a BIOS password which will help prevent unauthorized access to the system. And disabling any external ports and devices will prevent malicious code from infecting the system via USB.
 8. DLP (Data Loss Prevention) can be software or hardware based. Endpoint DLP systems run on individual computers and are usually software based. They monitor data in use, such as email communications, and can control what type of information flows between users.
+
+
+Intro Information Secuirty Part 2
+=
+
+1. In order to help keep a computer well maintained and secure, users should first use a surge protector or UPS. Second the BIOS and/or UEFI should be updated periodically. The third step consists of updating the OS. Fourth thing that should be done is updating the anti malware programs, following this the fifth step the firewall should be updated. Six steps on the list is to maintain the disk, and finally this is optional but users can create an image of the system.
+2. A hypervisor is also known as a Virtual Machine, allowing multiple operating systems to run at the same time on a single computer. There are two types of hypervisors, type 1 is the native and type 2 is hosted. Native hypervisor runs directly on the host computer’s hardware. Examples of this include VMware vCenter and VSphere. Type two hosted hypervisor runs within the operating systems. Guest operating systems run within the hypervisor. Some examples of hosted hypervisors are VirtualBox, Windows Virtual PC, Hyper-V, and VMware workstation.
+3. To minimize OS exposure to threats and to mitigate risk, a system administrator might harden a OS. Hardening OS can be accomplished by configuring the OS security, updating it, creating rules and policies to help govern the system in a secure manner, and removing unnecessary applications and services.
+4. Cookies are text files placed on a client computer that stores information about it. These text files might keep information about browsing habits and user credentials. Cookies can be used for authentication, keeping track of online shopping carrots, and users sessions. Tracking cookies are specialized and they can be shared by more than one website or service, and can be used for marketing and advertising. They can also be used as a way to exploit users by tracking their online behavior. Session cookies store temporary information and are deleted once the session is completed or the web browser is closed.
+
