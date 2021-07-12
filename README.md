@@ -1,9 +1,11 @@
-# Cybersecurity-
+# Cybersecurity
 A quick guide into cybersecurity 
 
 
 
 Introduction to Information Secuirty
+=
+
 
 1. Information security covers a wide range of topics. Information security protects data and information from unauthorized access, unlawful modification and disruption, disclosure, corruption, and destruction.
 2. Security Administration is responsible for installing, administering and troubleshooting an organization's security solutions. Security administrators also write security policies and training documents about security procedures for colleagues. Other responsibilities include monitoring network traffic for suspicious activity, scanning and accessing networks for vulnerability, and developing and updating business continuity and disaster recovery protocols.
